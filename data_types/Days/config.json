@@ -1,0 +1,12 @@
+{
+  "exportId" : "_CozWBvRTNaOVHH2jtdrmQ",
+  "name" : "Days",
+  "responseTypeId" : "Normal",
+  "canBeMemoized" : true,
+  "isDataType" : true,
+  "isTest" : false,
+  "dataTypeConfig" : {
+    "fields" : [ ],
+    "usesCode" : true
+  }
+}

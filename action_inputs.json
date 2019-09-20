@@ -1,0 +1,81 @@
+[ {
+  "exportId" : "-PxVARzjQdWZgSx6pOUGMw",
+  "name" : "users",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `users`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "Bp8e3HNDQt2lysCYgXVlmQ",
+  "name" : "time",
+  "paramType" : {
+    "exportId" : "Date & Time",
+    "name" : "Date & Time"
+  },
+  "question" : "At what time would you like the reminder to be sent?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "I_3kDzH1SO-F2Q0UWRNQWg",
+  "name" : "message",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What message would you like to send in the reminder?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "Q2Of_GXLTpeACvYRzBoxhw",
+  "name" : "users",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "Who would you like to remind? (Slack handles, space-separated)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "nQM471qKRx6ftqwCEhw-Bw",
+  "name" : "message",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `message`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "ql1qZSX8R0uy68s0b7c37A",
+  "name" : "users",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "Name some users",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "u7Zkt9lzR6GYTkOgTooa4A",
+  "name" : "channel",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "In what channel?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "wR63t2-aQJ2zL7z5VvCcsw",
+  "name" : "days",
+  "paramType" : {
+    "exportId" : "_CozWBvRTNaOVHH2jtdrmQ",
+    "name" : "Days"
+  },
+  "question" : "On which days should reminders be sent?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+} ]

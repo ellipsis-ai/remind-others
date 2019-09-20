@@ -1,0 +1,8 @@
+{
+  "name" : "Remind Others",
+  "exportId" : "9fg1xg3ETIqr2kt9mp6fIA",
+  "icon" : "⏰",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuthApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}
